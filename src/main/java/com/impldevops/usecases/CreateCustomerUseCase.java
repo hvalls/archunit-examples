@@ -6,7 +6,7 @@ package com.impldevops.usecases;
 public class CreateCustomerUseCase {
 
     /**
-     * All usecase classes should have "execute" method
+     * All usecase classes should have "execute" method 👍
      */
     public String execute(String name) {
         return "";
